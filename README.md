@@ -137,7 +137,7 @@ python3 scripts/rsl_rl/play.py --task Template-Isaac-Repose-Cube-Allegro-Play-v0
 ```
 
 ## Acknowledgement
-This project is forked from the author: Qiwei Wu<br.
+This project is forked from the author: Qiwei Wu.
 
 
 
