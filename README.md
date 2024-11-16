@@ -136,9 +136,8 @@ python3 scripts/rsl_rl/play.py --task Template-Isaac-Reach-Franka-Play-v0 --num_
 python3 scripts/rsl_rl/play.py --task Template-Isaac-Repose-Cube-Allegro-Play-v0 --num_envs 16
 ```
 
-## Author
-**Author: Qiwei Wu<br />
-Email: nathan.wuqw@gmail.com**
+## Acknowledgement
+This project is forked from the author: Qiwei Wu<br.
 
 
 
